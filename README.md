@@ -2,7 +2,7 @@
 
 ## Site para acessar página:
 
-<a href="https://juansouzamd.github.io/imobiliaria/" target="_blank">Site-Imobiliaria</a>
+https://juansouzamd.github.io/imobiliaria/
 
 ## 🛠 Tecnologias utilizadas:
 
